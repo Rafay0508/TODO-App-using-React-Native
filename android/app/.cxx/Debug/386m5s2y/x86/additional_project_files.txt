@@ -1,0 +1,7 @@
+C:\Users\AA\Desktop\code\newApp\android\app\.cxx\Debug\386m5s2y\x86\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\RNVectorIconsSpec-generated.cpp.o
+C:\Users\AA\Desktop\code\newApp\android\app\.cxx\Debug\386m5s2y\x86\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\ComponentDescriptors.cpp.o
+C:\Users\AA\Desktop\code\newApp\android\app\.cxx\Debug\386m5s2y\x86\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\EventEmitters.cpp.o
+C:\Users\AA\Desktop\code\newApp\android\app\.cxx\Debug\386m5s2y\x86\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\Props.cpp.o
+C:\Users\AA\Desktop\code\newApp\android\app\.cxx\Debug\386m5s2y\x86\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\RNVectorIconsSpecJSI-generated.cpp.o
+C:\Users\AA\Desktop\code\newApp\android\app\.cxx\Debug\386m5s2y\x86\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\ShadowNodes.cpp.o
+C:\Users\AA\Desktop\code\newApp\android\app\.cxx\Debug\386m5s2y\x86\RNVectorIconsSpec_autolinked_build\CMakeFiles\react_codegen_RNVectorIconsSpec.dir\react\renderer\components\RNVectorIconsSpec\States.cpp.o

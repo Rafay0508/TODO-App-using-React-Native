@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.newapp-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.newapp-main-32:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.newapp-res-25:/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.newapp-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.newapp-res-25:/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "com.newapp-res-25:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.newapp-main-32:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.newapp-main-32:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.newapp-res-25:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.newapp-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.newapp-main-32:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.newapp-res-25:/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.newapp-main-32:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "com.newapp-res-25:/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.newapp-main-32:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.newapp-main-32:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.newapp-release-31:/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "com.newapp-res-25:/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    }
+]

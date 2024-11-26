@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <string name="app_name">TODO World</string>
+    <string name="gcm_defaultSenderId" translatable="false">232669070653</string>
+    <string name="google_api_key" translatable="false">AIzaSyC2qVi-8Jklwbgk_YAuoTN1zQibpws0NEM</string>
+    <string name="google_app_id" translatable="false">1:232669070653:android:894bb348cb8983def97154</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC2qVi-8Jklwbgk_YAuoTN1zQibpws0NEM</string>
+    <string name="google_storage_bucket" translatable="false">todoapp-reactnative-82d4c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">todoapp-reactnative-82d4c</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>

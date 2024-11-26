@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "C:\\Users\\AA\\Desktop\\code\\newApp\\node_modules\\react-native-vector-icons\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\AA\\Desktop\\code\\newApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\AA\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\AA\\Desktop\\code\\newApp\\android\\app\\.cxx\\Debug\\386m5s2y\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\AA\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\AA\\Desktop\\code\\newApp\\android\\app\\.cxx\\Debug\\386m5s2y\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "artifactName": "react_codegen_RNVectorIconsSpec",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86_64",
+      "output": "C:\\Users\\AA\\Desktop\\code\\newApp\\android\\app\\build\\intermediates\\cxx\\Debug\\386m5s2y\\obj\\x86_64\\libappmodules.so",
+      "runtimeFiles": [
+        "C:\\Users\\AA\\.gradle\\caches\\8.10.2\\transforms\\ee4713c89dc69faa668500deaee892a4\\transformed\\fbjni-0.6.0\\prefab\\modules\\fbjni\\libs\\android.x86_64\\libfbjni.so",
+        "C:\\Users\\AA\\.gradle\\caches\\8.10.2\\transforms\\bfeaa5fb94176ff9f2fd0c3e0778a544\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\jsi\\libs\\android.x86_64\\libjsi.so",
+        "C:\\Users\\AA\\.gradle\\caches\\8.10.2\\transforms\\bfeaa5fb94176ff9f2fd0c3e0778a544\\transformed\\react-android-0.76.3-debug\\prefab\\modules\\reactnative\\libs\\android.x86_64\\libreactnative.so"
+      ]
+    }
+  }
+}

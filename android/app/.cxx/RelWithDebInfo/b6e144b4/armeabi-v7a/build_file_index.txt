@@ -1,0 +1,2 @@
+C:\Users\AA\Desktop\code\newApp\node_modules\react-native-vector-icons\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\AA\Desktop\code\newApp\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt
